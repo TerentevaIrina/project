@@ -9,3 +9,4 @@ RFRB AFRB VPAFRB
 КАКИФАКИМАЗАФАКИ
 =======
 >>>>>>> main
+{EQ{EQ{EQ{EQ{E{QE{QE{QE{|}}}}}}}}}
